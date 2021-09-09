@@ -32,6 +32,6 @@ highlight_name: false
 title: Alessandro Conway
 email: alessandro.conway@gmail.com
 ---
-I am a recent graduate in Economics from Sciences Po (Paris)'s Doctoral School, where I attended as a Fulbright Scholar. I focused on macroeconomics and inequality, learning to model economies that are informed by a population's wealth distribution using advanced computation. Through these studies I developed a strong quantitative skillset along with a keen interdisciplinary outlook. My goal is to use these for informing policy that seeks to improve socio-economic outcomes in the community around me, especially those most vulnerable.
+I am a recent graduate in Economics from Sciences Po (Paris)'s Doctoral School, where I attended as a Fulbright Scholar. I focused on macroeconomics and inequality, learning to model economies that are informed by a population's wealth distribution using advanced computation. My goal is to use these for informing policy which improves socio-economic outcomes in the community around me, especially those most vulnerable.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
