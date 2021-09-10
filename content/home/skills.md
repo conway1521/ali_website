@@ -25,8 +25,8 @@ feature:
   icon_pack: custom
   name: Julia
 - description: 10%
-  icon: camera-retro
-  icon_pack: fas
+  icon: twitter
+  icon_pack: fab
   name: Photography
 
 # Uncomment to use emoji icons.
