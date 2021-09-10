@@ -31,6 +31,8 @@ highlight_name: false
 title: Alessandro Conway
 email: ""
 ---
-I am a recent graduate in Economics from Sciences Po (Paris)'s Doctoral School, where I attended as a Fulbright Scholar. I focused on macroeconomics and inequality, learning to model economies that are informed by a population's wealth distribution using advanced computation. My goal is to use these for informing policy which improves socio-economic outcomes in the community around me, especially those most vulnerable.
+I am a recent graduate in Economics from Sciences Po (Paris)'s Doctoral School, where I attended as a Fulbright Scholar. I focused on macroeconomics, inequality and modeling economies characterized by their wealth distributions using advanced computation. My goal now is to use research for informing public policies which improve socio-economic outcomes in the community around me, especially for those most vulnerable.
+
+This website's purpose is to share my master's thesis project in the event that it benefits researchers and policymakers. , which involved creating a rigorous macroeconomic model that replaces utility wellbeing
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
