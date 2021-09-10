@@ -1,6 +1,6 @@
 ---
 role: Research Assistant, French Economic Observatory (OFCE) - Banque de France
-avatar_filename: img_5004.jpeg
+avatar_filename: avatar.jpg
 bio: My interests include personal wellbeing, sustainable, inclusive economic
   growth, and their attainment through public policy.
 interests:
