@@ -1,5 +1,5 @@
 ---
-role: Research Assistant, Banque de France - French Economic Observatory (OFCE)
+role: Research Assistant
 avatar_filename: avatar.jpg
 bio: My interests include personal wellbeing, sustainable, inclusive economic
   growth, and their attainment through public policy.
@@ -17,7 +17,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/conway1521
-organizations: []
+organizations: [Banque de France, French Economic Observatory (OFCE)]
 education:
   courses:
     - course: Master of Research in Economics
