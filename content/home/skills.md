@@ -20,7 +20,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: Modeling and programing
   icon: julia-language
   icon_pack: custom
   name: Julia
