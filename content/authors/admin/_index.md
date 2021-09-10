@@ -20,18 +20,17 @@ social:
 organizations: []
 education:
   courses:
-    - course: Master of Research, Economics
+    - course: Master of Research in Economics
       institution: Sciences Po
       year: 2020
-    - course: Bachelor of Philosophy, Economics & International and Area Studies
-        (double major)
+    - course: Bachelor of Philosophy in Economics & International Studies
       institution: University of Pittsburgh
-      year: 2009
+      year: 2017
 superuser: true
 highlight_name: false
 title: Alessandro Conway
-email: alessandro.conway@gmail.com
+email: ""
 ---
 I am a recent graduate in Economics from Sciences Po (Paris)'s Doctoral School, where I attended as a Fulbright Scholar. I focused on macroeconomics and inequality, learning to model economies that are informed by a population's wealth distribution using advanced computation. My goal is to use these for informing policy which improves socio-economic outcomes in the community around me, especially those most vulnerable.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
