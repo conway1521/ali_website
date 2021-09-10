@@ -21,7 +21,7 @@ organizations: []
 education:
   courses:
     - course: Master of Research in Economics
-      institution: Sciences Po
+      institution: Sciences Po, Paris
       year: 2020
     - course: Bachelor of Philosophy in Economics & International Studies
       institution: University of Pittsburgh
