@@ -36,3 +36,5 @@ I am a recent graduate in Economics from Sciences Po (Paris)'s Doctoral School, 
 This website's purpose is to share my master's thesis project in the event that it benefits researchers and policymakers. , which involved creating a rigorous macroeconomic model that replaces utility wellbeing
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}résumé{{< /staticref >}}.
