@@ -13,10 +13,10 @@ social:
     link: /#contact
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/alessandro-conway
+  - url: https://www.linkedin.com/in/alessandro-conway
   - icon: github
     icon_pack: fab
-    link: https://github.com/conway1521
+  - url: https://github.com/conway1521
 organizations:
   - name: Banque de France
   link: https://www.banque-france.fr/en
