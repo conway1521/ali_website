@@ -17,7 +17,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/conway1521
-organizations: [Banque de France, French Economic Observatory (OFCE)]
+# organizations:
 education:
   courses:
     - course: Master of Research in Economics
