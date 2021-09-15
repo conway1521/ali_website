@@ -38,6 +38,7 @@ email: ""
 
 
 I am a recent graduate in Economics from Sciences Po (Paris)'s Doctoral School, where I attended as a Fulbright Scholar. I focused on macroeconomics, inequality and modeling economies characterized by their wealth distributions using advanced computation. My goal now is to use research for informing public policies which improve socio-economic outcomes in the community around me, especially for those most vulnerable.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}résumé{{< /staticref >}}.
 
 This website's purpose is to share my master's thesis project in the event that it benefits researchers and policymakers. I created a rigorous macroeconomic model to study the interaction between agents' personal wellbeing, as defined by social psychology, and economic shocks. The model:
