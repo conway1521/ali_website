@@ -17,7 +17,10 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/conway1521
-# organizations:
+organizations:
+  - name: Banque de France
+#  url: https://www.stanford.edu/
+  - name: French Economic Observatory (OFCE)
 education:
   courses:
     - course: Master of Research in Economics
