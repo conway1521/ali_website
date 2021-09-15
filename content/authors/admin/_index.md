@@ -19,9 +19,9 @@ social:
     link: https://github.com/conway1521
 organizations:
   - name: Banque de France
-  - link: https://www.banque-france.fr/en
+  link: https://www.banque-france.fr/en
   - name: French Economic Observatory (OFCE)
-  - link: https://www.ofce.sciences-po.fr/en
+  link: https://www.ofce.sciences-po.fr/en
 education:
   courses:
     - course: Master of Research, Economics
