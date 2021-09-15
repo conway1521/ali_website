@@ -5,7 +5,7 @@ bio: My interests include personal wellbeing, sustainable, inclusive economic
   growth, and their attainment through public policy.
 interests:
   - Public Policy
-  - Macroeconomics
+  - Applied Macroeconomics
   - Wellbeing
 social:
   - icon: envelope
@@ -24,10 +24,10 @@ organizations:
   url: https://www.ofce.sciences-po.fr/en/
 education:
   courses:
-    - course: Master of Research in Economics
+    - course: Master of Research, Economics
       institution: Sciences Po, Paris
       year: 2020
-    - course: Bachelor of Philosophy in Economics & International Studies
+    - course: Bachelor of Philosophy, Economics & International Studies
       institution: University of Pittsburgh
       year: 2017
 superuser: true
@@ -35,6 +35,8 @@ highlight_name: false
 title: Alessandro Conway
 email: ""
 ---
+
+
 I am a recent graduate in Economics from Sciences Po (Paris)'s Doctoral School, where I attended as a Fulbright Scholar. I focused on macroeconomics, inequality and modeling economies characterized by their wealth distributions using advanced computation. My goal now is to use research for informing public policies which improve socio-economic outcomes in the community around me, especially for those most vulnerable.
 
 This website's purpose is to share my master's thesis project in the event that it benefits researchers and policymakers. I created a rigorous macroeconomic model to study the interaction between agents' personal wellbeing, as defined by social psychology, and economic shocks. The model:
