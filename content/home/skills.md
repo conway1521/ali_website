@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description: Modeling and programing
-- icon: "Julia_Programming_Language_Logo"
+  icon: "Julia_Programming_Language_Logo"
   icon_pack: "custom"
   name: "Julia"
 - description: 10%
