@@ -19,8 +19,9 @@ social:
     link: https://github.com/conway1521
 organizations:
   - name: Banque de France
-#  url: https://www.stanford.edu/
+  url: https://www.banque-france.fr/en
   - name: French Economic Observatory (OFCE)
+  url: https://www.ofce.sciences-po.fr/en/
 education:
   courses:
     - course: Master of Research in Economics
@@ -36,6 +37,9 @@ email: ""
 ---
 I am a recent graduate in Economics from Sciences Po (Paris)'s Doctoral School, where I attended as a Fulbright Scholar. I focused on macroeconomics, inequality and modeling economies characterized by their wealth distributions using advanced computation. My goal now is to use research for informing public policies which improve socio-economic outcomes in the community around me, especially for those most vulnerable.
 
-This website's purpose is to share my master's thesis project in the event that it benefits researchers and policymakers. , which involved creating a rigorous macroeconomic model that replaces utility wellbeing
-
+This website's purpose is to share my master's thesis project in the event that it benefits researchers and policymakers. I created a rigorous macroeconomic model to study the interaction between agents' personal wellbeing, as defined by social psychology, and economic shocks. The model:
+* expands individuals' wellbeing beyond economic prosperity to include personal agency and social cohesion, like {{< staticref "uploads/CV.pdf" "newtab" >}}Snower, Lima de Miranda (2020){{< /staticref >}} 
+* is mathematically proven to work within a modern macoreconomic model context (Bewley-class heterogeneous agent)
+* is entirely coded in Julia, inlcuding a partial calibration to 9 eurozone economies 
+* 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}résumé{{< /staticref >}}.
