@@ -22,7 +22,7 @@ feature:
   name: R
 - description: Modeling and programing
   icon: julia
-  icon_pack: icon
+  icon_pack: custom
   name: Julia
 - description: 10%
   icon: twitter
