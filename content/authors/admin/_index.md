@@ -13,15 +13,15 @@ social:
     link: /#contact
   - icon: linkedin
     icon_pack: fab
-  - url: https://www.linkedin.com/in/alessandro-conway
+    link: https://www.linkedin.com/in/alessandro-conway
   - icon: github
     icon_pack: fab
-  - url: https://github.com/conway1521
+    link: https://github.com/conway1521
 organizations:
   - name: Banque de France
-  link: https://www.banque-france.fr/en
+  - url: https://www.banque-france.fr/en
   - name: French Economic Observatory (OFCE)
-  link: https://www.ofce.sciences-po.fr/en
+  - url: https://www.ofce.sciences-po.fr/en
 education:
   courses:
     - course: Master of Research, Economics
