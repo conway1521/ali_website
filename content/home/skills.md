@@ -21,9 +21,9 @@ feature:
   icon_pack: fab
   name: R
 - description: Modeling and programing
-  icon: julia1
-  icon_pack: custom
-  name: Julia
+  icon: "julia1"
+  icon_pack: "custom"
+  name: "Julia"
 - description: 10%
   icon: twitter
   icon_pack: fab
