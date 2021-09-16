@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Wellbeing and Macroeconomics
+summary: An overview of my Master's Thesis
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Wellbeing, Macroeconomics, Public Policy
+date: "2021-09-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,8 +29,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Master_Thesis_Conway.pdf" "newtab" >}}Thesis{{< /staticref >}}.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The premise of this work questions how appropriately economic models represent people. Does the standard Utility level or, by extension, Consumption, really reflect a human's health, life satisfaction and ? Do economic conditions such as unemployment, income and wealthIs this even relevant for informing economic policy? Research from two different angles has given a 
 
 Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
