@@ -1,6 +1,6 @@
 ---
 role: Research Assistant
-avatar_filename: avatar.jpg
+avatar_filename: Alessandro Conway IMG_7881.jpg
 bio: My interests include personal wellbeing, sustainable, inclusive economic
   growth, and their attainment through public policy.
 interests:
