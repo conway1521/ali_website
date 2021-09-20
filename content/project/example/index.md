@@ -1,5 +1,5 @@
 ---
-title: Wellbeing and Macroeconomics
+title: Wellbeing and Macroeconomics through SAGE
 summary: An overview of my Master's Thesis
 tags:
 - Wellbeing
@@ -9,7 +9,7 @@ date: "2021-09-16T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Author's image
   focal_point: Smart
 
 links:
@@ -29,9 +29,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-{{< icon name="download" pack="fas" >}} See my full Master's Thesis{{< staticref "#publications" >}} here{{< /staticref >}}.
+In this post I rapidly describe the main reasons, methods and findings of my Master's Thesis. {{< icon name="download" pack="fas" >}} See the full document {{< staticref "#publications" >}} here{{< /staticref >}}.
 
-The purpose of this work was to question the foundational objectives driving economic policy decisions. In a context of increasing malcontent across the West fueled by rising inequality, nations have so far been unable to address this through standard methods, whether fiscal or monetary policy. How come we continually read about more nad more marginalized groups, ever-decreasing access to education, healthcare or economic prosperity, all while governements pass  ? Why does life satisfaction seem to be decreasing with  Does    Could it be that economic inequality AMONG OTHER THINGS (ITALIC) is what
+The purpose of this work was to question the foundational objectives driving economic policy decisions. In a context of increasing malcontent across the West, nations have so far been unable to adequately address the widespread rising inequality through standard tools. Furthermore, even as policymakers' focuses shift towards this, {{< staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3548365" {newtab} >}}evidence suggests{{< /staticref >}} that other determinants to individual wellbeing are increasingly unrelated to wealth or consumption. Therefore, given the time, could it be that economic inequality *among other things* is what
 
 The recognition of inequality and its subsequent inclusion in macroeconomic theory has led to new models that are informed by the wealth and income characteristics of (namely, Heterogeneous Agent models). These allow to study how policies or shocks affect people based on where they are in Yet, even the polcies employed follow   Beyond  Is there 
 
