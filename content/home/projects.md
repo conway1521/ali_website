@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Wellbeing & Macro
-    tag: Wellbeing & Macro
+    tag: Wellbeing
   - name: Fiscal Policy
-    tag: Fiscal Policy
+    tag: Fiscal
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
