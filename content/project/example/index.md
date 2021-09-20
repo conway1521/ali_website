@@ -1,5 +1,5 @@
 ---
-title: Wellbeing and Macroeconomics through SAGE
+title: Linking Wellbeing and Macroeconomics
 summary: An overview of my Master's Thesis
 tags:
 - Wellbeing
@@ -31,7 +31,7 @@ slides: example
 ---
 In this post I rapidly describe the main reasons, methods and findings of my Master's Thesis. {{< icon name="download" pack="fas" >}} See the full document {{< staticref "#publications" >}} here{{< /staticref >}}.
 
-The purpose of this work was to question the foundational objectives driving economic policy decisions. In a context of increasing malcontent across the West, nations have so far been unable to adequately address the widespread rising inequality through standard tools. Furthermore, even as policymakers' focuses shift towards this, {{< staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3548365" "newtab" >}}evidence suggests{{< /staticref >}} that other determinants to individual wellbeing are increasingly unrelated to wealth or consumption. Therefore, given the time, could it be that economic inequality *among other things* is what
+The purpose of this work was to question the foundational objectives driving economic policy decisions. In a context of increasing malcontent across the West, nations have so far been unable to adequately address the widespread rising inequality through standard tools. Furthermore, even as policymakers' focuses shift towards this, {{< staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3548365" "newtab" >}}evidence suggests{{< /staticref >}} that other determinants of individual wellbeing are increasingly unrelated to wealth or consumption. Therefore, given the time, could it be that economic inequality *among other things* is what
 
 The recognition of inequality and its subsequent inclusion in macroeconomic theory has led to new models that are informed by the wealth and income characteristics of (namely, Heterogeneous Agent models). These allow to study how policies or shocks affect people based on where they are in Yet, even the polcies employed follow   Beyond  Is there 
 
