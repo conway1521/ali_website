@@ -37,7 +37,7 @@ email: ""
 ---
 
 
-I am a recent graduate in Economics from Sciences Po (Paris)'s Doctoral School, where I attended as a Fulbright Scholar. I focused on macroeconomics, inequality and modeling economies characterized by their wealth distributions using advanced computation. My goal now is to use research for informing public policies which improve socio-economic outcomes in the community around me, especially for those most vulnerable.
+I am a recent graduate in Economics from {{< staticref "https://www.sciencespo.fr/department-economics/en.html" "newtab" >}}Sciences Po (Paris){{< /staticref >}}'s Doctoral School, where I attended as a Fulbright Scholar. I focused on macroeconomics, inequality and modeling economies characterized by their wealth distributions using advanced computation. My goal now is to use research for informing public policies which improve socio-economic outcomes in the community around me, especially for those most vulnerable.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}résumé{{< /staticref >}}.
 
