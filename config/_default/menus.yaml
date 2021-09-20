@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Projects
+  - name: Wellbeing & Macro
     url: '#projects'
     weight: 20
   - name: Thesis
