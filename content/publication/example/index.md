@@ -1,38 +1,37 @@
 ---
-title: "An example conference paper"
+title: "Wellbeing and Macroeconomics: A SAGE Approach"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2020-09-08T00:00:00Z"
+doi: "10.13140/RG.2.2.36600.57603"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: *Master's Thesis*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The aim of this project is to develop an economic model that improves on existing ones in capturing wellbeing outcomes stemming from economic shocks. The premise is that personal welfare depends on more than just preference satisfaction and that the other determinants, which are affected by economic choices may not be captured by standard models. A theoretical approach for representing wellbeing more completely, the SAGE framework, is presented as the basis for this analysis and adapted to a Bewley-class model. Some parameters are derived from data while others are calibrated in an equilibrium state, and then a modest productivity shock is simulated to understand how groups in different wealth categories respond and what the wellbeing implications are. While the model needs further development, the results follow some general patterns observed in economic data and offer insights into behaviour of the different wealth groups, including a decoupling of personal welfare dimensions following a productivity shock. In general, the introduction of wellbeing into the model shows promise for future development that better encompasses the motivations of groups and their responses to changes in their economic environments.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
