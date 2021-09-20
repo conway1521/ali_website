@@ -1,4 +1,7 @@
 ---
+
+active: false
+
 title: Example Talk
 
 event: Wowchemy Conference
