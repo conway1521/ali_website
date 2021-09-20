@@ -2,7 +2,7 @@
 title: Wellbeing and Macroeconomics
 summary: An overview of my Master's Thesis
 tags:
-- Wellbeing, Macroeconomics, Public Policy
+- Wellbeing
 date: "2021-09-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
