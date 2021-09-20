@@ -1,6 +1,6 @@
 ---
 
-active: false
+active: true
 
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Master\'s Thesis
 subtitle: ''
 
 content:
