@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,7 +29,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-{{< icon name="download" pack="fas" >}} Download my Thesis{{< staticref "uploads/Master_Thesis_Conway.pdf" "newtab" >}} here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See my full Master's Thesis{{< staticref "#publications" >}} here{{< /staticref >}}.
 
 The purpose of this work was to question the foundational objectives driving economic policy decisions. In a context of increasing malcontent across the West fueled by rising inequality, nations have so far been unable to address this through standard methods, whether fiscal or monetary policy. How come we continually read about more nad more marginalized groups, ever-decreasing access to education, healthcare or economic prosperity, all while governements pass  ? Why does life satisfaction seem to be decreasing with  Does    Could it be that economic inequality AMONG OTHER THINGS (ITALIC) is what
 
