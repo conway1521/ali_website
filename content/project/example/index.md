@@ -29,9 +29,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Master_Thesis_Conway.pdf" "newtab" >}}Thesis{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my Thesis{{< staticref "uploads/Master_Thesis_Conway.pdf" "newtab" >}} here{{< /staticref >}}.
 
-The premise of this work questions how appropriately economic models represent people. Does the standard Utility level or, by extension, Consumption, really reflect a human's health, life satisfaction and ? Do economic conditions such as unemployment, income and wealthIs this even relevant for informing economic policy? Research from two different angles has given a 
+The purpose of this work was to question the foundational objectives driving economic policy decisions. In a context of increasing malcontent across the West fueled by rising inequality, nations have so far been unable to address this through standard methods, whether fiscal or monetary policy. How come we continually read about more nad more marginalized groups, ever-decreasing access to education, healthcare or economic prosperity, all while governements pass  ? Why does life satisfaction seem to be decreasing with  Does    Could it be that economic inequality AMONG OTHER THINGS (ITALIC) is what
+
+The recognition of inequality and its subsequent inclusion in macroeconomic theory has led to new models that are informed by the wealth and income characteristics of (namely, Heterogeneous Agent models). These allow to study how policies or shocks affect people based on where they are in Yet, even the polcies employed follow   Beyond  Is there 
+
+As a premise, I ask questions how appropriately economic models represent people. Does the standard notion of Utility level or, by extension, Consumption, really reflect a human being's health, life satisfaction and ? Do economic conditions such as unemployment, income and wealthIs this even relevant for informing economic policy? Research from two different angles has given a 
 
 Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
