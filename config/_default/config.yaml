@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Alessandro Conway # Website name
-baseurl: 'https://example.com/' # Website URL
+baseurl: https://alessandroconway.netlify.app # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -66,5 +66,3 @@ related:
       weight: 100
     - name: categories
       weight: 70
-      
-google_analytics: google-site-verification=h-TlpxhLgrMGstqZ8U7V_pUHeNdnv5FWw8TbSawsLN0
