@@ -29,7 +29,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-In this post I rapidly describe the main motivations, research question and findings of my Master's Thesis. {{< icon name="download" pack="fas" >}} See the full document {{< staticref "#publications" >}}here{{< /staticref >}}.
+In this post I rapidly describe the main motivations, research question and findings of my Master's Thesis. {{< icon name="download" pack="fas" >}}See the full document {{< staticref "#publications" >}}here{{< /staticref >}}.
 
 The purpose of this work was to expand upon the foundational objectives driving economic policy decisions. In a context of rising inequality and malcontent across the West, evidence shows that standard economic indicators like GDP or consumption do not represent people's wellbeing effectively. In particular, {{< staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3548365" "newtab" >}}this novel 2020 paper{{< /staticref >}} found that other determinants of personal welfare are increasingly 'decoupling' from people's material wealth. With significant new data collection efforts underway like the OECD's {{< staticref "https://www.oecdbetterlifeindex.org" "newtab" >}}Better Life Index{{< /staticref >}}, we now have the means to measure a larger, more complete version of wellbeing. __Therefore, I explored the possibility of including such an index, namely the SAGE frameworj, into a modern macroeconomic model that can analyze policy and other shocks.__
 
