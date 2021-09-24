@@ -13,7 +13,8 @@ headless: true
 weight: 90
 
 title: Master\'s Thesis
-subtitle: ''
+subtitle: '![ShockDashboardsPenaltyShock](https://user-images.githubusercontent.com/48160659/134629347-a5547376-4ec0-4049-8f37-5153d5dcfc17.png)![DashboardsPenaltyShock](https://user-images.githubusercontent.com/48160659/134629495-43d7ca45-e931-4856-b9c2-7eb135597fff.png)
+
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -37,7 +38,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 4
 ---
 
 The aim of this project is to develop an economic model that improves on existing ones in capturing wellbeing outcomes stemming from economic shocks. The premise is that personal welfare depends on more than just preference satisfaction and that the other determinants, which are affected by economic choices may not be captured by standard models. A theoretical approach for representing wellbeing more completely, the SAGE framework, is presented as the basis for this analysis and adapted to a Bewley-class model. Some parameters are derived from data while others are calibrated in an equilibrium state, and then a modest productivity shock is simulated to understand how groups in different wealth categories respond and what the wellbeing implications are. While the model needs further development, the results follow some general patterns observed in economic data and offer insights into behaviour of the different wealth groups, including a decoupling of personal welfare dimensions following a productivity shock. In general, the introduction of wellbeing into the model shows promise for future development that better encompasses the motivations of groups and their responses to changes in their economic environments.
