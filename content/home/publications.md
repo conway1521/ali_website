@@ -13,7 +13,7 @@ headless: true
 weight: 90
 
 title: Master\'s Thesis
-subtitle: '![ShockDashboardsPenaltyShock](https://user-images.githubusercontent.com/48160659/134629347-a5547376-4ec0-4049-8f37-5153d5dcfc17.png)![DashboardsPenaltyShock](https://user-images.githubusercontent.com/48160659/134629495-43d7ca45-e931-4856-b9c2-7eb135597fff.png)
+subtitle: words words
 
 
 content:
