@@ -12,8 +12,8 @@ featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image: featured.jpg
-  caption: 'Author's graph'
+image:
+  caption: Author's graphics
   focal_point: "Center"
   
 links:
@@ -24,7 +24,7 @@ math: true
 
 projects: example
 
-publication: 
+publication: "*Social Macroeconomics*, (University of Oxford)"
 
 # publication_short: 
 
@@ -32,13 +32,13 @@ publication:
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types:
-- "3"
+- ["3"]
 
-tags: []
+tags: Wellbeing
 title: "Macroeconomics and Wellbeing: a SAGE Approach"
 #url_code: '#'
 #url_dataset: '#'
-#url_pdf: 
+#url_pdf: https://www.bsg.ox.ac.uk/sites/default/files/2021-09/SM-WP-2021-005-Wellbeing-and-macroeconomics-compressed.pdf
 #url_poster: '#'
 #url_preprint: '#'
 #url_project: ""
