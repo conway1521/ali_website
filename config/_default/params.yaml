@@ -155,6 +155,6 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai = true
   pack:
-    custom: true
+    custom = true
