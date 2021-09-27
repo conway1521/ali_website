@@ -17,9 +17,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/conway1521
-  - icon: researchgate
+  - icon: google-scholar
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Alessandro-Conway   
+    link: https://scholar.google.com/citations?user=PkytFnMAAAAJ&hl=en 
 organizations:
   - name: Banque de France
     url: https://www.banque-france.fr/en/page-sommaire/research
