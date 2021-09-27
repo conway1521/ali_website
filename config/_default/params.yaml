@@ -156,6 +156,6 @@ cms:
 icon:
   pack:
     ai: true
- icon:
+icon:
   pack:
     custom: true
