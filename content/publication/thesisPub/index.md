@@ -13,7 +13,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Author'
+  caption: 'Image credit: Author'
   focal_point: "Center"
   
 links:
@@ -22,7 +22,7 @@ links:
 
 math: true
 
-# projects: example
+projects: []
 
 publication: "*Social Macroeconomics*, (University of Oxford)"
 
@@ -38,7 +38,7 @@ tags: Wellbeing
 title: "Macroeconomics and Wellbeing: a SAGE Approach"
 #url_code: '#'
 #url_dataset: '#'
-#url_pdf: '#'
+#url_pdf: https://www.bsg.ox.ac.uk/sites/default/files/2021-09/SM-WP-2021-005-Wellbeing-and-macroeconomics-compressed.pdf
 #url_poster: '#'
 #url_preprint: '#'
 #url_project: ""
