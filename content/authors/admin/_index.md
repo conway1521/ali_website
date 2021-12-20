@@ -1,6 +1,6 @@
 ---
 role: Research Assistant
-avatar_filename: Ali_Crop.jpg
+avatar_filename: avatar.jpg
 bio: My interests include personal wellbeing, sustainable, inclusive economic
   growth, and their attainment through public policy.
 interests:
