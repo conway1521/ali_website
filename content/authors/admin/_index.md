@@ -1,10 +1,10 @@
 ---
-role: Research Assistant
+role: Program Manager, Inclusive Regional Economic Development
 avatar_filename: avatar.jpg
 bio: My interests include personal wellbeing, sustainable, inclusive economic
   growth, and their attainment through public policy.
 interests:
-  - Public Policy
+  - Local and Regional Economic Development
   - Applied Macroeconomics
   - Wellbeing
 social:
@@ -21,22 +21,22 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=PkytFnMAAAAJ&hl=en 
 organizations:
-  - name: Banque de France
-    url: https://www.banque-france.fr/en/page-sommaire/research
-  - name: French Economic Observatory (OFCE)
+  - name: Jobs for the Future (JFF)
+    url: https://www.jff.org
+  - name: Sciences Po
     url: https://www.ofce.sciences-po.fr/en
 education:
   courses:
     - course: Master of Research, Economics
-      institution: Sciences Po, Paris
+      institution: Sciences Po, Paris, France
       year: 2020
-    - course: Bachelor of Philosophy, Economics & International Studies
-      institution: University of Pittsburgh
+    - course: Bachelor of Philosophy, Economics & International Studies (double major)
+      institution: University of Pittsburgh, USA Honors College
       year: 2017
 superuser: true
 highlight_name: false
 title: Alessandro Conway
-email: ""
+email: alessandro.conway@gmail.com
 ---
 
 
