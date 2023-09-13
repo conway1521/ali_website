@@ -44,6 +44,7 @@ header:
 # Site footer
 
 footer:
+  block: minimal
   copyright:
     notice: '© {2023} Me.'
     license:
@@ -64,7 +65,7 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: dracula
+    theme_dark: github-dark
  math:
     enable: false
 privacy_pack:
