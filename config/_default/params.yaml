@@ -29,18 +29,6 @@ marketing:
     google: ''
     baidu: ''
 
-# # Contact (edit or remove options as required)
-
-# email: alessandro.conway@gmail.com
-# #phone: 888 888 88 88
-# address:
-# #  street: ''
-#   city: San Francisco
-#   region: CA
-# #  postcode: ''
-#   country: United States
-#   country_code: US
-
 # Site header
 
 header:
@@ -120,8 +108,9 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-icon:
-  pack:
-    ai: true
-#  pack:
-#    custom: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
