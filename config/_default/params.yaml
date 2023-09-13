@@ -63,19 +63,19 @@ locale:
 # Site features
 
 features:
-  # syntax_highlighter:
-  #   theme_light: github-light
-  #   theme_dark: github-dark
- math:
-    enable: false
-privacy_pack:
-    enable: false
-repository:
-  url: 'https://github.com/conway1521/ali_website'
-  content_dir: content
-  repo_branch: main
-avatar:
-  gravatar: false
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: github-dark
+  math:
+      enable: false
+  privacy_pack:
+      enable: false
+  repository:
+    url: 'https://github.com/conway1521/ali_website'
+    content_dir: content
+    repo_branch: main
+  avatar:
+    gravatar: false
     shape: circle
   comment:
     provider: ''
