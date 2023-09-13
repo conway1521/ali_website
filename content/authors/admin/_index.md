@@ -2,7 +2,7 @@
 role: Program Manager, Inclusive Regional Economic Development
 avatar_filename: avatar.jpg
 bio: My interests include personal wellbeing, sustainable, inclusive economic
-  growth, and their attainment through public policy.
+  development, and their attainment through evidence-based public policy.
 interests:
   - Local and Regional Economic Development
   - Applied Macroeconomics
