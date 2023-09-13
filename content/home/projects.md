@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: OIKOS - New Economic Development
+    tag: NED
   - name: Wellbeing & Macro
     tag: Wellbeing
   - name: Fiscal Policy
