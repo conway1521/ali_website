@@ -29,5 +29,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+The point of this project is to identify the channels through which fiscal policy influences consumption among people of varying credit constraints. Building upon [2021 research](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01094/106895/The-Distribution-of-Households-Indebtedness-and?redirectedFrom=fulltext) from Drs. Paul Hubert and Fergus Cumming, we connect individuals' asset liquidity with a unique fiscal policy dataset to estimate the specific consumption impacts on the heterogeneous actors.
+
 Coming soon!
 
