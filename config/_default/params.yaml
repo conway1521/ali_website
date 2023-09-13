@@ -102,8 +102,8 @@ features:
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
-highlight_languages:
-  - r
+# highlight_languages:
+#   - r
  math:
     enable: false
 privacy_pack:
