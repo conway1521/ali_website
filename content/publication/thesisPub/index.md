@@ -42,6 +42,4 @@ url_pdf: 'https://www.bsg.ox.ac.uk/sites/default/files/2021-09/SM-WP-2021-005-We
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-
 ---
-
