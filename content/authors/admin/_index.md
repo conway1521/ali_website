@@ -44,4 +44,4 @@ I am a recent graduate in Economics from {{< staticref "https://www.sciencespo.f
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}résumé{{< /staticref >}}.
 
-This website's purpose is to share my master's thesis work in the event that it benefits researchers and policymakers. I created a rigorous macroeconomic model to study the interaction between agents' personal wellbeing, as defined by social psychology, and economic shocks. See it in action below.
+This website's purpose is to share my applied economic research on improving quality of life. Researchers and policymakers, but also anyone, will find two novel evidence-based tools here: an interactive dashboard analysing the state of inclusive local economic development in California, and a macroeconomic model studying the interaction between agents' personal wellbeing and economic shocks. See them below!
