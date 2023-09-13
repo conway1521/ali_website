@@ -1,6 +1,6 @@
 ---
 title: "Macroeconomics and Wellbeing: a SAGE Approach
-authors:
+author:
 - admin
 date: "2020-09-08T00:00:00Z"
 doi: "10.13140/RG.2.2.36600.57603"
