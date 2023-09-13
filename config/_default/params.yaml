@@ -115,3 +115,18 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+
+# Contact (edit or remove options as required)
+
+email: alessandro.conway@gmail.com
+#phone: 888 888 88 88
+address:
+#  street: 450 Serra Mall
+#  street: ''
+  city: San Francisco
+  region: CA
+#  postcode: '94305'
+#  postcode: ''
+  country: United States
+  country_code: US
