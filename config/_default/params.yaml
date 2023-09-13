@@ -46,7 +46,7 @@ header:
 footer:
   block: minimal
   copyright:
-    notice: '© {2023} Me.'
+    notice: '© 2023 Alessandro Conway.'
     license:
       enable: true
       allow_derivatives: false
