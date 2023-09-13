@@ -1,6 +1,6 @@
 ---
 title: Fiscal Policy's Distributional Impact on Consumption
-summary: A study of UK's population with low asset liquidity
+summary: A study of the UK population with low asset liquidity
 tags:
 - Fiscal
 date: "2021-09-16T00:00:00Z"
