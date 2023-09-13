@@ -31,7 +31,7 @@ education:
       institution: Sciences Po, Paris, France
       year: 2020
     - course: Bachelor of Philosophy, Economics & International Studies (double major)
-      institution: University of Pittsburgh, USA Honors College
+      institution: University of Pittsburgh, Honors College, USA
       year: 2017
 superuser: true
 highlight_name: false
