@@ -7,10 +7,10 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Wellbeing & Macro
+  - name: OIKOS– New Economic Development
     url: '#projects'
     weight: 20
-  - name: Thesis
+  - name: Other Projects
     url: '#publications'
     weight: 30
   - name: Contact
