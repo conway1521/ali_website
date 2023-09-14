@@ -17,7 +17,7 @@ tags:
 - Social Cohesion
 - Place-based Conditions
 
-featured: false
+featured: true
 
 links:
 - name: NED Dashboard
