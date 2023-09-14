@@ -6,13 +6,13 @@ authors:
 date: "2023-09-01T00:00:00Z"
 
 
-abstract: What does economic development look like when taking a lens of In other words, how can we combine frontier research with place-based to understand what matters to households' advancement and what constitutes the enabling conditions of inclusive economies? Enter the New Economic Development (NED) framework. 
+abstract: What does local economic development look like when considering household needs and the ecosystem around them rather than traditional metrics? Enter the New Economic Development (NED) Dashboard, an interdisciplinary quantitative assessement tool for researchers and local policymakers to explore economic development status geographically along dimensions that better represent the channels for equitable, durable development. The NED framework learns from frontier economic research and combines qualitative findings from agencies involved in local development to represent the characteristics of inclusive economies as well as the needs of communities to successfully tap into prosperity. By compiling and representing key tenents into a barometer, the NED Dashboard quantitatively measures the ecosystem that enables inclusive, sustainable, and resilient prosperity.
 
 # Summary. An optional shortened abstract.
-summary: The New Economic Development (NED) Dashboard is a quantitative assessement tool for researchers and local policymakers to explore economic development status geographically along dimensions that better represent quality of life, inclusive prosperity, and the enabling ecosystem.
+summary: The New Economic Development (NED) Dashboard is a quantitative assessement tool for researchers and local policymakers to explore economic development status geographically along dimensions that better represent inclusive prosperity and its enabling ecosystem.
 
 tags:
-- New Economic Development
+- New Economic Development (OIKOS)
 - Inclusive Prosperity
 - Social Cohesion
 - Place-based Conditions
