@@ -17,17 +17,17 @@ tags:
 - Social Cohesion
 - Place-based Conditions
 
-featured: true
+featured: false
 
 links:
 - name: NED Dashboard
-  url: 'ned-dashboard.onrender.com'
+  url: 'https://ned-dashboard.onrender.com'
 # url_project: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # image:
-#  caption: 'Author's image, [**NED Dashboard**](ned-dashboard.on-render.com)'
+#  caption: 'Author's image, [**NED Dashboard**](https://ned-dashboard.onrender.com)'
 #  focal_point: ""
 #  preview_only: false
 
@@ -41,11 +41,5 @@ projects: [Oikos]
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click [here](ned-dashboard.onrender.com) to navigate to the interactive NED Dashboard and explore for yourself the new characterisation of economic development.
 {{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
