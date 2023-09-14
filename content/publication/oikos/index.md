@@ -20,7 +20,7 @@ featured: false
 
 links:
 - name: NED Dashboard
-  url: ned-dashboard.onrender.com
+  url: 'ned-dashboard.onrender.com'
 # url_project: ''
 
 # Featured image
