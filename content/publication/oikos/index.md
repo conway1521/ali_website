@@ -1,4 +1,5 @@
 ---
+
 title: "An example journal article"
 authors:
 - admin
