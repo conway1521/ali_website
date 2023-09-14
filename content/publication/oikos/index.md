@@ -12,12 +12,16 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: The New Economic Development Dashboard is a quantitative assessement tool for researchers and local policymakers to explore places' eveonomic development status along dimensions that actually represent quality of life and inclusive prosperity.
 
 tags:
-- New Economic Development, Inclusive Prosperity, Social Cohesion, Place-based Conditions
+- New Economic Development
+- Inclusive Prosperity
+- Social Cohesion
+- Place-based Conditions
+
 featured: false
 
 # links:
- - name: "NED Dashboard"
-   url: "ned-dashboard.onrender.com"
+ - name: NED Dashboard
+   url: ned-dashboard.onrender.com
 url_pdf: ''
 url_code: ''
 url_dataset: ''
