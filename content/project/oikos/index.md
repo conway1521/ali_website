@@ -2,7 +2,7 @@
 title: OIKOS– New Economic Development
 summary: A new conception of local and regional economic development centered around the interaction between place-based conditions, human and social capital, and economic activity. 
 tags:
-- ned
+- Oikos
 date: "2021-09-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
