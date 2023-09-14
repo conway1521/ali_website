@@ -7,7 +7,7 @@ main:
   - name: Projects
     url: '#projects'
     weight: 10    
-  - name: OIKOS– New Economic Development
+  - name: New Economic Development
     url: '#publications'
     weight: 20
   - name: Contact
