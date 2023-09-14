@@ -1,6 +1,6 @@
 ---
 
-active: false
+active: true
 
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Macroeconomics and Wellbeing
-subtitle: 'A SAGE Approach'
+title: New Economic Development
+subtitle: 'The OIKOS workstream'
 
 
 content:
@@ -40,3 +40,5 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+porcaccia
