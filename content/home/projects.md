@@ -28,7 +28,7 @@ content:
 #   - name: All
 #     tag: '*'
   - name: OIKOS - New Economic Development
-    tag: NED
+    tag: Oikos
   - name: Wellbeing & Macro
     tag: Wellbeing
   - name: Fiscal Policy
