@@ -1,15 +1,15 @@
 ---
 title: "New Economic Development Dashboard"
-subtitle: "An interactive tool for exploring a novel framework of the *Oikos* workstream"
+subtitle: "An interactive tool from the *Oikos* workstream"
 authors:
 - admin
 date: "2023-09-01T00:00:00Z"
 
 
-abstract: What does economic development look like when taking a lens of In other words, how can we combine frontier research with place-based to understand what matters to households' advancement and what constitutes the enabling conditions of inclusive economies.
+abstract: What does economic development look like when taking a lens of In other words, how can we combine frontier research with place-based to understand what matters to households' advancement and what constitutes the enabling conditions of inclusive economies? Enter the New Economic Development (NED) framework. 
 
 # Summary. An optional shortened abstract.
-summary: The New Economic Development Dashboard is a quantitative assessement tool for researchers and local policymakers to explore places' eveonomic development status along dimensions that actually represent quality of life and inclusive prosperity.
+summary: The New Economic Development (NED) Dashboard is a quantitative assessement tool for researchers and local policymakers to explore economic development status geographically along dimensions that better represent quality of life, inclusive prosperity, and the enabling ecosystem.
 
 tags:
 - New Economic Development
@@ -41,14 +41,11 @@ projects: [Oikos]
 ---
 The NED approach is informed by two main sources:
 
-1. Recent research shows the determinant role of social networks, geography, education, and wealth (among others) for 
-enabling local economic development.
+1. Recent research shows the determinant role of social networks, geography, education, and wealth (among others) for enabling local economic development.
 
-2. Community-based organizations, workforce boards, and community colleges elevate the complementary and equally 
-fundamental role of access, basic needs, and community engagement, particularly for inclusion.
+2. Community-based organizations, workforce boards, and community colleges elevate the complementary and equally fundamental role of access, basic needs, and community engagement, particularly for inclusion.
 
-By combining frontier interdisciplinary research with key field-derived learning, three distinct Pillars emerged as 
-comprising the drivers of inclusive local economic development. These are **Place-based Conditions**, **Human and Social Capital**, and **Economic Activity**.
+By combining frontier interdisciplinary research with key field-derived learning, three distinct Pillars emerged as comprising the drivers of inclusive local economic development. These are **Place-based Conditions**, **Human and Social Capital**, and **Economic Activity**.
 
 **Place-based Conditions** refer to the physical foundation upon which people live. Health, environment, and access are factored along with other metrics of thriving communities.
 
@@ -78,7 +75,8 @@ The general categories that cover inclusive economic prosperity and well-being f
 
 * *Business Environment* – to assess entrepreneurial outcomes and opportunities.
 
+These are populated from a variety of datasources and indicators that capture their intricacies as well as distributional elements.
 
 {{% callout note %}}
-Click [here](ned-dashboard.onrender.com) to navigate to the interactive NED Dashboard and explore for yourself this new framework of economic development.
+Click [here](https://ned-dashboard.onrender.com) to navigate to the interactive NED Dashboard and explore for yourself this new framework of economic development.
 {{% /callout %}}
