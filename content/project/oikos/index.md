@@ -23,13 +23,13 @@ url_slides: ""
 url_video: ""
 
 ---
-"Oikos" is the basic unit of an economy. Well before being used as a popular yoghurt brand, it signified . To ancient Greeks,
+*Oikos* is a word that in Ancient Greece represented the basic unit of a society. Well before being used as a popular yoghurt brand, it signified a household. Its root, *oiko* is from which our the word for *economy* comes from. In our modern terms, it's time to understand the economy with households **in the full sense of the word** at its core.
 
-In keeping with this more holistic conception of a household as the basic unit of an economy, and in light of the myriad lived experiences that households are having across society, what better reason to place at the center of economic development strategies households' lived experience, **in the full sense of the word**? Let's see what that means:
+Let's see what that means:
 
-On the news we continually hear of rising inequality, disenfranchised populations, marginalised populations, and of discrimination. We are reminded daily of the fragility of our environment and the drastic consequences it can have on livelihoods, and how many who experience the worst outcomes are also those less-equipped to front them. 
+On the news we continually hear of rising wealth inequality, disenfranchised populations, marginalised populations, and of unequal access to opportunity. We are reminded daily of the fragility of our environmental conditions and the drastic consequences changes are having on livelihoods, as well as how many who experience the worst outcomes are also those less-equipped to front them. 
 
-Applied economic development work with community-based organisations, community colleges, workforce boards, and community leaders elevate the foundational need of engagement of representative memebers of society for inclusive outcomes. Equally, the access to basic needs and an empowering ecosystem can help overcome barriers to resilient prosperity, thus facilitating regional onramps to economic development.
+Applied economic development work with community-based organisations, community colleges, workforce boards, and community leaders across the US elevate the foundational need of community engagement for inclusive outcomes. Equally, the access to basic needs and an empowering ecosystem can help overcome barriers to resilient prosperity, thus facilitating onramps to economic development across different regions.
 
 So why is it that our economic development models do not factor these pluri-dimensional factors?
 
