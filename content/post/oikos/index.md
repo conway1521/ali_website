@@ -3,7 +3,7 @@ title: New Economic Development- OIKOS
 subtitle: An interactive tool for exploring a novel framework
 
 # Summary for listings and search engines
-summary: The New Economic Development Dashboard is a quantitative assessement tool for researchers and local policymakers to explore places\{'} eveonomic development status along dimensions that actually represent quality of life and inclusive prosperity.
+summary: The New Economic Development Dashboard is a quantitative assessement tool for researchers and local policymakers to explore places' eveonomic development status along dimensions that actually represent quality of life and inclusive prosperity.
 
 # Link this post with a project
 projects: [ned]
@@ -22,11 +22,11 @@ featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Author, NED Dashboard**](ned-dashboard.onrender.com)'
-  focal_point: ''
-  placement: 2
-  preview_only: false
+# image:
+#  caption: 'Image credit: [**Author, NED Dashboard**](ned-dashboard.onrender.com)'
+#  focal_point: ''
+#  placement: 2
+#  preview_only: false
 
 authors:
   - admin
