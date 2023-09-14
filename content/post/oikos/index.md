@@ -1,7 +1,4 @@
 ---
-
-active: true
-
 title: New Economic Development- OIKOS
 subtitle: An interactive tool for exploring a novel framework
 
