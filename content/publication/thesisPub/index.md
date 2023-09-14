@@ -21,7 +21,7 @@ summary: A new theoretical economic framework that combines personal wellbeing w
 
 tags:
 - Wellbeing
-featured: true
+featured: False
 
 links:
 - name: "Social Macroeconomics"
