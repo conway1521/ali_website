@@ -5,16 +5,12 @@ active: false
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
 # This file represents a page section.
 headless: true
-
 # Order that this section appears on the page.
 weight: 60
-
 title: Recent Posts
 subtitle:
-
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: post
@@ -33,7 +29,6 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -41,6 +36,4 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
-
 ---
-  
