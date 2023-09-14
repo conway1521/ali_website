@@ -1,5 +1,4 @@
 ---
-
 title: "An example journal article"
 authors:
 - admin
@@ -51,6 +50,7 @@ projects: [ned]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+
 ---
 
 {{% callout note %}}
