@@ -1,6 +1,5 @@
 ---
 title: "An example journal article"
-subtitle: An interactive tool for exploring a novel framework
 authors:
 - admin
 date: "2023-09-01T00:00:00Z"
