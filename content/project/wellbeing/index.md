@@ -29,5 +29,3 @@ Economic growth is increasingly [uncoupled from individual wellbeing](https://pa
 Considering the significant advances in macroeconomic theory and computation, namely in the realm of heterogeneous agents, is it possible to better represent individual needs and motivations inside policy-defining models? If so, how does the wellbeing of individuals of varying wealth levels react to an economic shock?
 
 This project was born out of my 2020 Master's Thesis work, which was [published in 2021](https://www.bsg.ox.ac.uk/research/publications/wellbeing-and-macroeconomics-sage-approach) by the University of Oxford's *Social Macroeconomics* series.
-
-More work coming soon!
