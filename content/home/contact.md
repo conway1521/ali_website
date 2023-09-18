@@ -13,7 +13,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: change me in contact.md of home
 
 email: alessandro.conway@gmail.com
 address:
