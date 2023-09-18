@@ -118,15 +118,9 @@ security:
 
 
 # Contact (edit or remove options as required)
-contact:
-  email: alessandro.conway@gmail.com
-  #phone: 888 888 88 88
-  address:
-#  street: 450 Serra Mall
-#  street: ''
-    city: San Francisco
-    region: CA
-#  postcode: '94305'
-#  postcode: ''
-    country: United States
-    country_code: US
+email: alessandro.conway@gmail.com
+address:
+  city: San Francisco
+  region: CA
+  country: United States
+  country_code: US
