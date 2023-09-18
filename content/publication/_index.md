@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: New Economic Development Dashboard
 cms_exclude: true
 
 # View.
