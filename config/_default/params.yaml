@@ -117,10 +117,10 @@ security:
   allow_frame: true
 
 
-# Contact (edit or remove options as required)
-email: alessandro.conway@gmail.com
-address:
-  city: San Francisco
-  region: CA
-  country: United States
-  country_code: US
+# # Contact (edit or remove options as required)
+# email: alessandro.conway@gmail.com
+# address:
+#   city: San Francisco
+#   region: CA
+#   country: United States
+#   country_code: US
