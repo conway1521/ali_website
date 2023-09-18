@@ -12,7 +12,8 @@ abstract: What does local economic development look like when considering househ
 summary: The New Economic Development (NED) Dashboard is a quantitative assessement tool for researchers and local policymakers to explore economic development status geographically along dimensions that better represent inclusive prosperity and its enabling ecosystem.
 
 tags:
-- New Economic Development (OIKOS)
+- Oikos
+- New Economic Development
 - Inclusive Prosperity
 - Social Cohesion
 - Place-based Conditions
