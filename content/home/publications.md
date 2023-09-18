@@ -15,9 +15,6 @@ weight: 90
 title: New Economic Development
 subtitle: 'The OIKOS workstream'
 
-project:
-- Oikos
-
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
