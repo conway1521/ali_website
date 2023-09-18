@@ -12,7 +12,12 @@ weight: 130
 title: Contact
 subtitle:
 
-content:
+email: alessandro.conway@gmail.com
+address:
+  city: San Francisco
+  region: CA
+  country: United States
+  country_code: US  
   # Automatically link email and phone or display as text?
   autolink: true
   
