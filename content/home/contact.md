@@ -13,7 +13,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: change me in contact.md of home
+subtitle: change me in contact.md of home1
 
 email: alessandro.conway@gmail.com
 address:
@@ -22,7 +22,7 @@ address:
   country: United States
   country_code: US  
   # Automatically link email and phone or display as text?
-  autolink: false
+  autolink: true
   
   # Email form provider
 #  form:
