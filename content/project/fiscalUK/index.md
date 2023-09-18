@@ -33,5 +33,4 @@ Fiscal policy is a significant lever for policymakers to influence the financial
 
 The point of this project is to identify the channels through which fiscal policy influences consumption among people of varying credit constraints through a novel method. Building upon [2021 research](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01094/106895/The-Distribution-of-Households-Indebtedness-and?redirectedFrom=fulltext) from Drs. Paul Hubert and Fergus Cumming, we connect individuals' asset liquidity with a unique fiscal policy dataset to estimate the specific consumption impacts on the heterogeneous actors. Estimating fiscal shock implications has not always been accurate (particularly in predicting them), and thus an alternative *Narrative approach* is employed to measure impulse responses.
 
-Coming soon!
-
+Work in progress.
