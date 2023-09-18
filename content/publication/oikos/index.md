@@ -13,10 +13,6 @@ summary: The New Economic Development (NED) Dashboard is a quantitative assessem
 
 tags:
 - Oikos
-- New Economic Development
-- Inclusive Prosperity
-- Social Cohesion
-- Place-based Conditions
 
 featured: false
 
