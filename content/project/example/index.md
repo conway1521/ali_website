@@ -1,5 +1,5 @@
 ---
-title: example
+title: Linking Macroeconomics and Wellbeing
 summary: An overview of my Master's Thesis
 tags:
 - Wellbeing
