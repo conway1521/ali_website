@@ -2,6 +2,7 @@
 title: Fiscal Policy's Distributional Impact on Consumption
 summary: A study of the UK population with low asset liquidity
 tags:
+- Fiscal
 - Fiscal Policy
 - Credit Constraints
 - Heterogeneous Agents
