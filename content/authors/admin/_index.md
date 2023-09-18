@@ -40,8 +40,8 @@ email: alessandro.conway@gmail.com
 ---
 
 
-I am a recent graduate in Economics from [Sciences Po (Paris)](https://www.sciencespo.fr/department-economics/en.html)'s Doctoral School, where I attended as a Fulbright Scholar. I focused on macroeconomics, inequality and modeling economies characterized by their wealth distributions using advanced computation. My goal now is to use research for informing public policies which improve socio-economic outcomes in the community around me, especially for those most vulnerable.
+I am a Program Manager in the Inclusive Regional Economic Development unit of Jobs for the Future, a national US workforce and education organisation. Before that, I graduated in Economics from [Sciences Po (Paris)](https://www.sciencespo.fr/department-economics/en.html)'s Doctoral School, where I attended as a Fulbright Scholar.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}résumé{{< /staticref>}}.
 
-This website's purpose is to share my applied economic research on improving quality of life. Researchers and policymakers, but also anyone, will find two novel evidence-based tools here: an interactive dashboard analysing the state of inclusive local economic development in California, and a macroeconomic model studying the interaction between agents' personal wellbeing and economic shocks. See them below!
+This website's purpose is to share my applied economic research on improving quality of life. Researchers and policymakers, but also anyone, will find two novel tools here: an interactive dashboard analysing the state of economic development in California, and a macroeconomic model studying the interaction between personal wellbeing and economic shocks. See them below!
