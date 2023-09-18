@@ -40,8 +40,8 @@ email: alessandro.conway@gmail.com
 ---
 
 
-I am a Program Manager in the Inclusive Regional Economic Development unit of [Jobs for the Future](https://archive.jff.org/about/staff/alessandro-conway/), a national US workforce and education organisation. Before that, I graduated in Economics from [Sciences Po](https://www.sciencespo.fr/ecole-doctorale/en/actualites/alessandro-conway-class-2020.html)'s Doctoral School in Paris, where I attended as a Fulbright Scholar.
+I am a Program Manager in the Inclusive Regional Economic Development unit of [Jobs for the Future](https://archive.jff.org/about/staff/alessandro-conway/), a national US workforce and education organisation. Before that, I graduated in Economics from [Sciences Po](https://www.sciencespo.fr/ecole-doctorale/en/actualites/alessandro-conway-class-2020.html)'s Doctoral School in Paris as a Fulbright Scholar.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}résumé{{< /staticref>}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}} my résumé.
 
-This website's purpose is to share my applied economic research work on improving quality of life. Researchers and policymakers, but also anyone, will find two novel tools below: an interactive dashboard analysing the state of economic development in California, and a macroeconomic model studying the interaction between personal wellbeing and economic shocks.
+This website's purpose is to share my applied economic research work on improving quality of life. You will find my projects below, including two novel tools: an interactive dashboard analysing the state of economic development in California, and a macroeconomic model studying the interaction between personal wellbeing and economic shocks.
