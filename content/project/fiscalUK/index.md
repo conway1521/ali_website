@@ -29,8 +29,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Fiscal policy is a significant lever for policymakers to influence the financial means of people. However, it can have drastically different implications given one's wealth and income-generating situation. Macroeconomic models have advanced significantly in recent times to be able to factor the financial heterogeneity of a population, and as always, improvements can always be made!
+Fiscal policy is a significant lever for policymakers to influence the financial means of people. However, it can have drastically different implications given one's wealth and income situation.
 
-The point of this project is to identify the channels through which fiscal policy influences consumption among people of varying credit constraints through a novel method. Building upon [2021 research](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01094/106895/The-Distribution-of-Households-Indebtedness-and?redirectedFrom=fulltext) from Drs. Paul Hubert and Fergus Cumming, we connect individuals' asset liquidity with a unique fiscal policy dataset to estimate the specific consumption impacts on the heterogeneous actors. Estimating fiscal shock implications has not always been accurate (particularly in predicting them), and thus an alternative *Narrative approach* is employed to measure impulse responses.
+The point of this project is to identify the channels through which fiscal policy influences consumption among people of varying credit constraints through a novel method. Together with Paul Hubert and Fergus Cumming, we build upon their [2021 paper](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01094/106895/The-Distribution-of-Households-Indebtedness-and?redirectedFrom=fulltext) to connect individuals' asset liquidity with a unique fiscal policy dataset and estimate the specific consumption impacts. Measuring fiscal shock outcomes has not always been accurate (particularly in predicting them), and thus an alternative *Narrative approach* in conjunction with the heterogeneity of agents is employed.
 
 Work in progress.
