@@ -3,6 +3,12 @@ title: Linking Macroeconomics and Wellbeing
 summary: An overview of my Master's Thesis
 tags:
 - Wellbeing
+- Heterogeneous Agents
+- Macroeconomics
+- Social Cohesion
+- Julia
+- Macroeocnomic Modelling
+- Economic Shocks
 date: "2021-09-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
