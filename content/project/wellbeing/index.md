@@ -3,6 +3,11 @@ title: Wellbeing & Macro
 summary: Introducing a new theoretical economic framework that encompasses individual wellbeing. 
 tags:
 - Wellbeing
+- Macroeconomics
+- Social Cohesion
+- Julia
+- Heterogeneous Agents
+- Economic Shocks
 date: "2021-09-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
