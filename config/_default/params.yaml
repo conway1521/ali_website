@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: ''
-    twitter: ''
+    org_name: 'New Economic Development'
+    description: 'Economic development research at Jobs for the Future and Sciences Po, combining macroeconomic research with wellbeing and local and regional inclusive economic development.'
+    twitter: 'alessandroconw1'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
