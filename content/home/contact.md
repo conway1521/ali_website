@@ -13,16 +13,17 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: change me in contact.md of home1
+subtitle:
 
-email: alessandro.conway@gmail.com
-address:
-  city: San Francisco
-  region: CA
-  country: United States
-  country_code: US  
-  # Automatically link email and phone or display as text?
-  autolink: true
+content:
+  email: alessandro.conway@gmail.com
+  address:
+    city: San Francisco
+    region: CA
+    country: United States
+    country_code: US  
+    # Automatically link email and phone or display as text?
+    autolink: true
   
   
 design:
