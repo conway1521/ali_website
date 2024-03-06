@@ -17,7 +17,7 @@ date: "2024-03-05T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Jobs for the Future
+  caption: [Jobs for the Future](https://info.jff.org/assessing-regional-readiness-for-action)
   focal_point: Smart
 
 links:
