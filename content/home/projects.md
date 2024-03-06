@@ -31,6 +31,8 @@ content:
     tag: Oikos
   - name: Wellbeing & Macro
     tag: Wellbeing
+  - name: Green Transformation
+    tag: Green
   - name: Fiscal Policy
     tag: Fiscal
 
