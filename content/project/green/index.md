@@ -34,7 +34,7 @@ Utilising advanced machine learning methodologies, I identified key variables in
 
 Finally, through the development of user-friendly, interactive data visualisation tools, I enabled stakeholders to explore and understand the findings intuitively. By creating interactive maps, charts, and graphs, we provide stakeholders with dynamic visual representations of complex data, facilitating deeper insights and informed decision-making.
 
-Bringing these elements together, our guide serves as a unique and action-oriented resource of insights and guidance for leaders across various sectors – including business, government, education, and community organising – engaged in climate change mitigation and green economic development efforts. By offering tailored recommendations and actionable insights at the county level, we empower leaders to prioritise initiatives and allocate resources effectively.
+Bringing these elements together, our guide serves as a unique and action-oriented resource where leaders across various sectors – including business, government, education, and community organising – engaged in climate change mitigation and green economic development efforts can go for insights and guidance. By offering tailored recommendations and actionable insights at the county level, we empower leaders to prioritise initiatives and allocate resources effectively.
 
 Furthermore, our approach fosters collaboration and partnership-building by identifying regions with similar strengths or challenges, facilitating knowledge-sharing and collective action. By providing a roadmap for regional leaders to articulate their readiness and take proactive steps towards building a greener economy, we help lay the foundation for a more sustainable and resilient future.
 
