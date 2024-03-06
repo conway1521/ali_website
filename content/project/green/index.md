@@ -2,6 +2,7 @@
 title: Assessing Regional Readiness for Workforce Green Transformation
 summary: A comprehensive dashboard of local workforce green transformation readiness designed to navigate the transition towards a vibrant green economy in the United States.
 tags:
+- Green
 - JFF
 - Jobs for the Future
 - Green Transformation
@@ -13,7 +14,7 @@ tags:
 date: "2024-03-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://info.jff.org/assessing-regional-readiness-for-action"
+external_link: ""
 
 image:
   caption: Jobs for the Future
@@ -30,7 +31,7 @@ url_slides: ""
 url_video: ""
 
 ---
-At Jobs for the Future (JFF), I played a pivotal role as the lead data analyst in developing of a comprehensive guide aimed at empowering leaders to navigate the multifaceted challenges of fostering a vibrant green economy in the United States. As part of our [Climate-Resilient Employees for a Sustainable Tomorrow (CREST)](https://www.jff.org/idea/climate-resilient-employees-sustainable-tomorrow-crest/) initiative within JFFLabs' [Climate Innovation](https://www.jff.org/work/jff-labs/jfflabs-incubation/jfflabs-climate-innovation/) incubation practice area, our mission was to provide actionable insights grounded in data-driven analysis, facilitating informed decision-making and strategic planning to drive sustainable economic growth and resilience.
+At Jobs for the Future (JFF), I played a pivotal role as the lead data analyst in developing of a comprehensive guide aimed at empowering leaders to navigate the multifaceted challenges of fostering a vibrant green economy in the United States. As part of our [Climate-Resilient Employees for a Sustainable Tomorrow (CREST)](https://www.jff.org/idea/climate-resilient-employees-sustainable-tomorrow-crest/) initiative (within JFFLabs' [Climate Innovation](https://www.jff.org/work/jff-labs/jfflabs-incubation/jfflabs-climate-innovation/) incubation practice area), our mission was to provide actionable insights grounded in data-driven analysis, facilitating informed decision-making and strategic planning to drive sustainable economic growth and resilience.
 
 The project addressed the pressing need for guidance amidst the increasing urgency to transition towards a more environmentally sustainable and economically viable future. With my expertise in data analytics and machine learning, I led the effort to analyse county-level data encompassing various dimensions of economic, social, and climate resilience. This involved delving into diverse data sources, including U.S. census records, climate observations, job market trends, and community surveys, to derive meaningful insights.
 
@@ -42,4 +43,6 @@ The impact of our project extended far beyond the realms of data analysis and vi
 
 Furthermore, our approach fosters collaboration and partnership-building by identifying regions with similar strengths or challenges, facilitating knowledge-sharing and collective action. By providing a roadmap for regional leaders to articulate their readiness and take proactive steps towards building a greener economy, we help lay the foundation for a more sustainable and resilient future.
 
-Through collaboration, innovation, and strategic vision, the JFF team and I have made significant strides towards fostering a vibrant green economy and advancing sustainable development goals on a regional scale.
+{{% callout note %}}
+Click [here](https://info.jff.org/assessing-regional-readiness-for-action) to navigate to JFF's interactive regional readiness tool page and see for yourself the insights and strategies that this work has derived.
+{{% /callout %}}
