@@ -21,7 +21,7 @@ image:
   focal_point: Smart
 
 links:
-- name: JFF Tool Webpage
+- name: Interactive Readiness Tool Page (JFF)
   url: 'https://info.jff.org/assessing-regional-readiness-for-action'
 
 
@@ -30,11 +30,11 @@ At Jobs for the Future (JFF), I played a pivotal role as the lead data analyst i
 
 The project addressed the pressing need for guidance amidst the increasing urgency to transition towards a more environmentally sustainable and economically viable future. With my expertise in data analytics and machine learning, I led the effort to analyse county-level data encompassing various dimensions of economic, social, and climate resilience. This involved delving into diverse data sources, including U.S. census records, climate observations, job market trends, and community surveys, to derive meaningful insights.
 
-Utilizing advanced machine learning methodologies, such as factor analysis, we identified key variables influencing each dimension and developed a comprehensive framework to assess risk and readiness levels across different regions. Through meticulous analysis and interpretation of the data, we categorised regions as Critical, Primed, Exposed, or Early, providing a nuanced understanding of their unique challenges and opportunities.
+Utilising advanced machine learning methodologies, I identified key variables influencing each dimension and developed a comprehensive framework to assess risk and readiness levels across different regions. Through meticulous analysis and interpretation of the data, I categorised regions by their unique challenges and opportunities and connected each type with extensive filed-derived qualitative insights from my teammates.
 
-My contribution extended beyond data analysis to encompass the development of interactive data visualization tools, enabling stakeholders to explore and understand the findings intuitively. By creating interactive maps, charts, and graphs, we provided stakeholders with dynamic visual representations of complex data, facilitating deeper insights and informed decision-making.
+Finally, through the development of user-friendly, interactive data visualisation tools, I enabled stakeholders to explore and understand the findings intuitively. By creating interactive maps, charts, and graphs, we provide stakeholders with dynamic visual representations of complex data, facilitating deeper insights and informed decision-making.
 
-The impact of our project extended far beyond the realms of data analysis and visualization. Our guide serves as a beacon of knowledge and guidance for leaders across various sectors – including business, government, education, and community organizing – engaged in climate change mitigation and green economic development efforts. By offering tailored recommendations and actionable insights at the county level, we empower leaders to prioritize initiatives and allocate resources effectively.
+Bringing these elements together, our guide serves as a unique and action-oriented resource of insights and guidance for leaders across various sectors – including business, government, education, and community organising – engaged in climate change mitigation and green economic development efforts. By offering tailored recommendations and actionable insights at the county level, we empower leaders to prioritise initiatives and allocate resources effectively.
 
 Furthermore, our approach fosters collaboration and partnership-building by identifying regions with similar strengths or challenges, facilitating knowledge-sharing and collective action. By providing a roadmap for regional leaders to articulate their readiness and take proactive steps towards building a greener economy, we help lay the foundation for a more sustainable and resilient future.
 
