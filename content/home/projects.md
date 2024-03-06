@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: OIKOS - New Economic Development
+  - name: OIKOS Economy
     tag: Oikos
   - name: Wellbeing & Macro
     tag: Wellbeing
