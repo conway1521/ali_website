@@ -1,5 +1,5 @@
 ---
-role: Program Manager, Inclusive Regional Economic Development
+role: Senior Manager
 avatar_filename: avatar.jpg
 bio: My interests include personal wellbeing, sustainable, inclusive economic
   development, and their attainment through evidence-based public policy.
