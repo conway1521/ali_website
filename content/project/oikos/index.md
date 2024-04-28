@@ -1,5 +1,5 @@
 ---
-title:"["INTRO"]" OIKOS– New Economic Development
+title:OIKOS– New Economic Development
 summary: A new conception of local and regional economic development centered around the ecosystem that enables inclusive, sustainable, and resilient prosperity for households. 
 tags:
 - Oikos
