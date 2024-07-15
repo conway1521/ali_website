@@ -6,10 +6,10 @@ authors:
 date: "2023-09-01T00:00:00Z"
 
 
-abstract: What does local economic development look like when considering household needs and the ecosystem around them rather than traditional metrics? Enter the New Economic Development (NED) Dashboard, an interdisciplinary quantitative assessement tool for researchers and local policymakers to explore economic development status geographically along dimensions that better represent the channels for equitable, durable development. The NED framework learns from frontier economic research and combines qualitative findings from agencies involved in local development to represent the characteristics of inclusive economies as well as the needs of communities to successfully tap into prosperity. By compiling and representing key tenents into a barometer, the NED Dashboard quantitatively measures the ecosystem that enables inclusive, sustainable, and resilient prosperity.
+abstract: What does local economic development look like when considering household needs and the ecosystem around them rather than traditional metrics? Enter the New Economic Development (NED) Dashboard, an interdisciplinary quantitative assessment tool for researchers and local policymakers to explore economic development status geographically along dimensions that better represent the channels for equitable, durable development. The NED framework learns from frontier economic research and combines qualitative findings from agencies involved in local development to represent the characteristics of inclusive economies as well as the needs of communities to successfully tap into prosperity. By compiling and representing key tenets into a barometer, the NED Dashboard quantitatively measures the ecosystem that enables inclusive, sustainable, and resilient prosperity.
 
 # Summary. An optional shortened abstract.
-summary: The New Economic Development (NED) Dashboard is a quantitative assessement tool for researchers and local policymakers to explore economic development status geographically along dimensions that better represent inclusive prosperity and its enabling ecosystem.
+summary: The New Economic Development (NED) Dashboard is a quantitative assessment tool for researchers and local policymakers to explore economic development status geographically along dimensions that better represent inclusive prosperity and its enabling ecosystem.
 
 tags:
 - Oikos
@@ -55,7 +55,7 @@ By combining frontier interdisciplinary research with key field-derived learning
 
 **Economic Activity** represents material and financial prosperity, potential, and resilience. This is the 'size of the local economic pie' and how its 'slices' are distributed.
 
-In NED, the three Pillars are not mutually exclusive. High Economic Activity scores do not make up for low Place-based Conditions and/or Human and Social Capital scores (which might imply exogenous economic growth and lacking endogenous assets and ecosystem, and thus inequal opportunity). As such, NED is a barometer of the three Pillars where some degree of equilibrium leads to inclusive, sustainable prosperity. Economic development strategies can thus be tailored by vieweing the three Pillars together.
+In NED, the three Pillars are not mutually exclusive. High Economic Activity scores do not make up for low Place-based Conditions and/or Human and Social Capital scores (which might imply exogenous economic growth and lacking endogenous assets and ecosystem, and thus unequal opportunity). As such, NED is a barometer of the three Pillars where some degree of equilibrium leads to inclusive, sustainable prosperity. Economic development strategies can thus be tailored by viewing the three Pillars together.
 
 The general categories that cover inclusive economic prosperity and well-being follow: 
 
