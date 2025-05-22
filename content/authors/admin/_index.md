@@ -1,5 +1,5 @@
 ---
-role: Senior Manager
+role: Head of Data Science
 avatar_filename: avatar.jpg
 bio: My interests include personal wellbeing, sustainable, inclusive economic
   development, and their attainment through evidence-based public policy.
@@ -21,12 +21,15 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=PkytFnMAAAAJ&hl=en 
 organizations:
-  - name: Jobs for the Future (JFF)
-    url: https://www.jff.org
+  - name: Radius Intelligence
+    url: https://radiusintelligence.co
   - name: Sciences Po
-    url: https://www.ofce.sciences-po.fr/en
+    url: https://www.sciencespo.fr/en
 education:
   courses:
+    - course: PhD, Economics
+      institution: Université Paris VIII, Saint-Denis, France
+      year: expected 2026
     - course: Master of Research, Economics
       institution: Sciences Po, Paris, France
       year: 2020
@@ -40,7 +43,7 @@ email: alessandro.conway@gmail.com
 ---
 
 
-I work on Inclusive Regional Economic Development for [Jobs for the Future](https://www.jff.org), a national US workforce and education organisation. In 2020, I graduated in Economics from [Sciences Po](https://www.sciencespo.fr/ecole-doctorale/en/actualites/alessandro-conway-class-2020.html)'s Doctoral School in Paris as a Fulbright Scholar.
+I work on labor market forecasting and workforce planning at [Radius Intelligence](https://radiusintelligence.co), a startup offering solutions to talent shortages. In 2020, I graduated in Economics from [Sciences Po](https://www.sciencespo.fr/ecole-doctorale/en/actualites/alessandro-conway-class-2020.html)'s Doctoral School in Paris as a Fulbright Scholar. I am currently enrolled to continue my doctoral studies in Economics at Paris VIII.
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}} my résumé.
 
